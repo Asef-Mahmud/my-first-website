@@ -1,4 +1,9 @@
 div{
-background-color: brown;
-padding: 100px;
+background-color: rgb(35, 128, 39);
+padding: 200px;
+margin: 50px ;
+}
+footer{
+background-color: rgb(68, 193, 193);
+padding: 200px;
 }
